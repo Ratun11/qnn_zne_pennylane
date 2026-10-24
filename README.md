@@ -13,11 +13,10 @@ Requires **Python 3.10** with **PennyLane 0.42.3** (also compatible with newer P
 **1. Get the repository and enter its directory**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/qnn-zne-pennylane.git
+git clone https://github.com/Ratun11/qnn-zne-pennylane.git
 cd qnn-zne-pennylane
 ```
 
-Replace `YOUR-USERNAME` with the repository owner. If using the downloaded ZIP instead, extract it and open a terminal inside the `qnn-zne-pennylane` folder.
 
 **2. Create a virtual environment**
 
