@@ -1,0 +1,4 @@
+pennylane==0.42.3
+numpy>=1.26
+matplotlib>=3.8
+qiskit-ibm-runtime>=0.40
